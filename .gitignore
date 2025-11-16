@@ -1,0 +1,20 @@
+# Build folders
+bin/
+obj/
+
+# API key (NEVER UPLOAD)
+api_key.txt
+
+# Visual Studio user files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Other unnecessary files
+*.cache
+*.pdb
+*.mdb
